@@ -1,0 +1,35 @@
+body{
+    background-color: lightgray;
+}
+.container{
+    background-color: white;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.header{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+.heading{
+    text-align: center;
+    color: black;
+    font-size: 107px;
+    padding-bottom: 20px;
+}
+.content{
+    font-size: 22px;
+    text-align: left;
+}
+.box-part-2{
+    padding-top: 15px;
+}
+img{
+    width: 100%;
+    height: 475px;
+}
+.img1{
+    width: 100%;
+    height: 300px;
+}
